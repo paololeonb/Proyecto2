@@ -1,0 +1,57 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    overflow-x: hidden;
+}
+.carousel {
+    margin: 50px;   
+}
+
+footer {
+    background-color: black;
+    min-height: 100px;
+    position: absolute;
+}
+
+footer p {
+    color: #fff;
+    text-align: center;
+
+}
+#iconos i {
+    font-size: 26px;
+    padding: 0 10px;
+    color: #fff;
+    text-align: center;
+}
+.rejilla {
+    text-align: center;
+    font-size: 16px;
+}
+.img {
+    border-radius: 50%;
+}
+#bg-contacto {
+    position: relative;
+    top: -60px
+}
+#Contacto {
+    background-color: black;
+    min-height: 800px;
+    position: relative;
+}
+#contenedor-formulario {
+    position: absolute;
+    left: 50%;
+    top: 280%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    border-radius: 5px;
+    max-width: 500px;
+}
+
+#titulo-formulario {
+    color:black;
+    font-weight: bold;
+}
